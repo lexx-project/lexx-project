@@ -55,18 +55,18 @@ Status: Always building something 🔥
 
 ## 🔥 Featured Projects
 
-- 🤖 **WhatsApp Bot**
-  Bot WhatsApp dengan berbagai fitur automation. (Yes, it even argues with you like a real dev 😆)
+- 🤖 **WhatsApp Bot**  
+  Bot WhatsApp dengan berbagai fitur automation. *(Yes, it even argues with you like a real dev 😆)*
 
-- 🐧 **Pterodactyl Panel** 
-  Eksperimen self-hosting panel server. (a.k.a “It works on my STB… probably”)
+- 🐧 **Pterodactyl Panel**  
+  Eksperimen self-hosting panel server. *(a.k.a “It works on my STB… probably”)*
 
-- 📤 [**Image Uploader**](https://upload.lexxganz.my.id)  
+- 📤 **[Image Uploader](https://upload.lexxganz.my.id)**  
   Upload file → dapet URL siap pakai. Cocok buat share gambar langsung 🚀  
-   ( plis jangan uji coba upload gambar 10GB — server rumah + WiFi saya bisa langsung nangis 😭🙏)
+  **Pro tip:** `res.json({ url })` > `res.send(file)`, set `Content-Type: image/*`, kasih `Cache-Control` yang bener, jangan upload `.env`, dan plis jangan uji coba upload gambar 10GB — server rumah + WiFi saya bisa langsung nangis 😭🙏
 
 > Semua projek digarap dengan **Unix taste**: CLI first, scripts, dan automations biar hidup makin efisien.  
-> Kalau error? `rm -rf /` selalu jadi solusi… (Jangan dicoba di rumah 🙃)
+> Kalau error? `rm -rf /` selalu jadi solusi… *(Jangan dicoba di rumah 🙃)*
 
 ---
 
