@@ -1,10 +1,6 @@
-<!-- Header dengan ASCII unik -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Lexy+Evandra!;Code+%7C+Create+%7C+Deploy;Welcome+to+my+Universe+%F0%9F%8C%8C" alt="Typing SVG" />
-</h1>
-
+<!-- Banner Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="Hacker animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5ff&height=200&section=header&text=Welcome%20to%20Lexy's%20Hub&fontSize=40&fontColor=0d1117&animation=twinkling"/>
 </p>
 
 ---
@@ -25,7 +21,6 @@ Status: Always building something 🔥
 ---
 
 ## 🚀 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,html,css,tailwind,git,github,linux,docker,mysql,mongodb,vscode" />
 </p>
@@ -47,13 +42,13 @@ Status: Always building something 🔥
 
 ## 🔥 Featured Projects
 - 🟢 [**WhatsApp Bot (Baileys)**](https://github.com/lexxganz/whatsapp-bot)  
-  Automasi WA dengan fitur unik: auto topup, Saweria QRIS, dll.  
+  Dibuat dengan **vibe coding malam hari** 🌙☕ sambil eksplorasi automation. 
 
 - 🌐 [**Pterodactyl Panel on STB**](https://github.com/lexxganz/stb-pterodactyl)  
-  Hosting panel di STB HG680P dengan Armbian + custom domain.  
+  Projek eksperimen **self-hosting vibe** ⚡ di STB HG680P + Armbian.  
 
 - 📘 [**HTML Book (100+ pages)**](https://github.com/lexxganz/html-book)  
-  Buku belajar HTML dengan gaya simple tapi detail.  
+  Ditulis dengan **ngoding vibe santai** 🎧 buat pemula biar gampang paham.  
 
 ---
 
@@ -74,3 +69,7 @@ Status: Always building something 🔥
 </p>
 
 <p align="center">⚡ Crafted with passion by <b>Lexy Evandra</b> ⚡</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5ff&height=120&section=footer"/>
+</p>
