@@ -3,6 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5ff&height=200&section=header&text=Welcome%20to%20Lexy's%20Hub&fontSize=40&fontColor=0d1117&animation=twinkling"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Lexy+Evandra;Code+%7C+Create+%7C+Deploy;Built+with+%E2%9D%A4%EF%B8%8F+and+Unix+vibes" alt="Typing" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lexx-project&style=flat-square&color=00f5ff" alt="Profile views" />
+</p>
+
 ---
 
 ## ⚡ About Me
@@ -29,32 +37,39 @@ Status: Always building something 🔥
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lexxganz&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexxganz&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lexx-project&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexx-project&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lexx-project&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🌀 Holopin Badges
-[![An image of @lexxganz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lexxganz)](https://holopin.io/@lexxganz)
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lexx-project&theme=onedark&no-bg=true&no-frame=true&column=6" alt="trophies"/>
+</p>
 
 ---
 
 ## 🔥 Featured Projects
 - 🟢 [**WhatsApp Bot (Baileys)**](https://github.com/lexxganz/whatsapp-bot)  
-  Dibuat dengan **vibe coding malam hari** 🌙☕ sambil eksplorasi automation. 
+  Dibuat dengan **vibe coding malam hari** 🌙☕: auto topup, Saweria QRIS (QR otomatis), anti-rvo `.rvo`, dan otomasi lainnya. 
 
 - 🌐 [**Pterodactyl Panel on STB**](https://github.com/lexxganz/stb-pterodactyl)  
-  Projek eksperimen **self-hosting vibe** ⚡ di STB HG680P + Armbian.  
+  Projek eksperimen **self-hosting vibe** ⚡ di STB HG680P + Armbian, domain `lexxganz.my.id`, deploy panel + wings.
 
 - 📘 [**HTML Book (100+ pages)**](https://github.com/lexxganz/html-book)  
-  Ditulis dengan **ngoding vibe santai** 🎧 buat pemula biar gampang paham.  
+  Ditulis dengan **ngoding vibe santai** 🎧: bahasa Indonesia + istilah teknis, siap cetak & rapi.
+
+> Semua projek digarap dengan **Unix taste**: CLI first, scripts, dan automations biar hidup makin efisien.
 
 ---
 
 ## 🎶 Vibe While Coding
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31avd2dljqopg2lh7s62r7l5ipk4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/music.gif" width="600" alt="lofi coding vibe"/>
 </p>
 
 ---
