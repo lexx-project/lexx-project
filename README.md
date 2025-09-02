@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/b1Xb2Jq.gif" width="400" alt="Hacker animation"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="Hacker animation"/>
 </p>
 
 ---
