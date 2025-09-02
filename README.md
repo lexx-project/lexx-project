@@ -54,21 +54,23 @@ Status: Always building something 🔥
 ---
 
 ## 🔥 Featured Projects
-- 🟢 [**WhatsApp Bot (Baileys)**](https://github.com/lexxganz/whatsapp-bot)  
-  Dibuat dengan **vibe coding malam hari** 🌙☕: auto topup, Saweria QRIS (QR otomatis), anti-rvo `.rvo`, dan otomasi lainnya. 
 
-- 🌐 [**Pterodactyl Panel on STB**](https://github.com/lexxganz/stb-pterodactyl)  
-  Projek eksperimen **self-hosting vibe** ⚡ di STB HG680P + Armbian, domain `lexxganz.my.id`, deploy panel + wings.
+- 🤖 **WhatsApp Bot**
+  Bot WhatsApp dengan berbagai fitur automation. (Yes, it even argues with you like a real dev 😆)
 
-- 📘 [**HTML Book (100+ pages)**](https://github.com/lexxganz/html-book)  
-  Ditulis dengan **ngoding vibe santai** 🎧: bahasa Indonesia + istilah teknis, siap cetak & rapi.
+- 🐧 **Pterodactyl Panel** 
+  Eksperimen self-hosting panel server. (a.k.a “It works on my STB… probably”)
 
-> Semua projek digarap dengan **Unix taste**: CLI first, scripts, dan automations biar hidup makin efisien.
+- 📤 [**Image Uploader**](https://upload.lexxganz.my.id)  
+  Upload file → dapet URL siap pakai. Cocok buat share gambar langsung 🚀  
+   ( plis jangan uji coba upload gambar 10GB — server rumah + WiFi saya bisa langsung nangis 😭🙏)
+
+> Semua projek digarap dengan **Unix taste**: CLI first, scripts, dan automations biar hidup makin efisien.  
+> Kalau error? `rm -rf /` selalu jadi solusi… (Jangan dicoba di rumah 🙃)
 
 ---
 
 ## 🎶 Vibe While Coding
-
 <p align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="500" alt="lofi coding cat"/>
 </p>
@@ -76,7 +78,6 @@ Status: Always building something 🔥
 <p align="center">
   <i>Powered by coffee ☕, bugs 🐞, and infinite loops 🔁</i>
 </p>
-
 
 ---
 
@@ -122,6 +123,12 @@ except WorksOnMyMachineError:
 
 ```txt
 StackOverflowError: when you search your own answer and upvote it.
+```
+
+```c
+// A programmer had a problem.
+// He decided to use regex.
+// Now he has two problems.
 ```
 </details>
 
