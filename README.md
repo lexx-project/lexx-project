@@ -74,6 +74,53 @@ Status: Always building something 🔥
 
 ---
 
+## 🧪 Just for Fun (Dev Jokes & Easter Eggs)
+
+<p>
+  <img src="https://img.shields.io/badge/status-undefined-00f5ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/bug_count-NaN-ff79c6?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/coffee-OVERFLOW-ffaa00?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/works_on-my_machine-50fa7b?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+```js
+// Why did the JavaScript developer go broke?
+// Because he kept using toFixed().
+
+function debugLife() {
+  let motivation = undefined;
+  const coffee = Infinity;
+  return motivation ?? coffee; // always returns coffee ☕
+}
+
+// TODO: fix later
+// TODO: fix later (again)
+// ~struck through because we both know it's never happening~
+```
+
+```bash
+$ npm i -g productivity || echo "undefined"
+$ git commit -m "fix: it works on my machine"
+$ alias deploy='echo 404: stage not found'
+```
+
+<details>
+  <summary><b>Click for more nerdy stuff</b> (I promise it's safe) 😅</summary>
+
+```python
+try:
+    ship_code()
+except WorksOnMyMachineError:
+    print("it works on my machine™")
+```
+
+```txt
+StackOverflowError: when you search your own answer and upvote it.
+```
+</details>
+
+---
+
 ## ✨ Quote of the Day
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
