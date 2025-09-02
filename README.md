@@ -68,9 +68,15 @@ Status: Always building something 🔥
 ---
 
 ## 🎶 Vibe While Coding
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/music.gif" width="600" alt="lofi coding vibe"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="500" alt="lofi coding cat"/>
 </p>
+
+<p align="center">
+  <i>Powered by coffee ☕, bugs 🐞, and infinite loops 🔁</i>
+</p>
+
 
 ---
 
